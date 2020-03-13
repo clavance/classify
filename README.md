@@ -4,8 +4,8 @@ This is a summary of how to run the models and visualisations in this project.
 
 We provide the files for running all the models discussed in the project.
 
-+ Download and save the [__data.csv__](https://www.dropbox.com/s/v8qhwjwobp8ti00/data.csv?dl=0) file. 
-+ Due to the file size limitations in CATe, we have hosted the file [here](https://www.dropbox.com/s/v8qhwjwobp8ti00/data.csv?dl=0).
++ Download and save the [__data.csv__](https://www.dropbox.com/s/w0geozcogt3yx2t/data.csv) file. 
++ Due to the file size limitations in CATe, we have hosted the file [here](https://www.dropbox.com/s/w0geozcogt3yx2t/data.csv).
 + It contains 3 columns per line:
   1. "Text": consisting of the raw text samples, extracted from HTML source
   2. "Class": the class label belonging to the text sample
